@@ -1,0 +1,15 @@
+I) Conceptualize an expense tracker and create a plan how you will build that application. 
+=> create the baisc html file with a title,heading,form ,and expense list.Apply basic css styles.create an expense object and 
+store it delete and update can also be implemented.
+It should have features like security,expense tracking,biometric access,notifications,receipts.
+
+II) What are the entities involved in this design? 
+=> Users,Budgets,Targets,Reports.
+and what is important to develope or working in the project that helps in the building in the project.
+
+III) What are the possible properties of each object? 
+=> name,description,amount,amount
+
+IV) Intent to learn javascript.
+=>usually javascript is the good programming language that that is widely used language and very interesting language
+that is very easy as well as very nice language and thats why i am learning javascript language .

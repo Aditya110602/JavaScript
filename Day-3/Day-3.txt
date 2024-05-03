@@ -1,0 +1,23 @@
+ES5 (ECMAScript 5) and ES6 (ECMAScript 2015, also known as ES6 or ECMAScript 6)
+
+let and const:=====> ES6 introduced two new variable declaration keywords,
+let and const, which provide block scope. In ES5, variables declared with var have function scope or global scope.
+Arrow Functions=====>ES6 introduced arrow function syntax () => {} which provides 
+a more concise way of writing anonymous functions compared to the function keyword in ES5.
+Template Literals:=====>ES6 introduced template literals using backticks (``) which allow
+for easier string interpolation and multiline strings compared to concatenation or line breaks in ES5.
+Default Parameters:=====> ES6 allows function parameters to have default values, whereas in ES5 
+developers had to manually check if arguments were undefined and assign default values.
+Classes:=====> ES6 introduced a more traditional class syntax similar to other object-oriented 
+programming languages, providing syntactic sugar over the prototype-based inheritance in ES5.
+Modules:=====> ES6 introduced a standardized module system using import and export keywords for 
+better code organization and reuse, while in ES5 developers typically used IIFE (Immediately Invoked Function Expression)
+or other patterns for module-like behavior.
+Destructuring Assignment:=====>ES6 introduced destructuring syntax which allows extracting values from
+arrays or objects into distinct variables, offering a more concise way to work with complex data structures.
+Promises:=====> While promises existed in ES5 through libraries like Q or Bluebird, ES6 standardized promises 
+natively in the language, making asynchronous code easier to read and write.
+Rest and Spread Operators:=====> ES6 introduced the rest (...) and spread (...) operators, allowing for more 
+flexibility when working with function arguments or arrays.
+Enhanced Object Literals:=====> ES6 introduced new syntax for defining object literals, including shorthand for
+defining methods and computed property names.
