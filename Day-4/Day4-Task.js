@@ -1,9 +1,9 @@
 const expenses =[
-    { id: 1, category :"food", amount :20, description:"eating", date: "01/2/23"},
-    { id: 2, category :"chai", amount:30, description:"eating",date: "09/2/23"},
-    { id: 3, category :"trasnport", amount:300, description:"transportion",date: "13/2/23"},
-    { id: 4, category :"lightbill", amount:3000, description:"electricity bill",date: "17/2/23"},
-    { id: 5, category :"petrol", amount:500, description:"fuel",date: "22/2/23"},
+    { id: 1, category :"food", amount :20, date: "01/2/23"},
+    { id: 2, category :"chai", amount:30, date: "09/2/23"},
+    { id: 3, category :"trasnport", amount:300, date: "13/2/23"},
+    { id: 4, category :"lightbill", amount:3000, date: "17/2/23"},
+    { id: 5, category :"petrol", amount:500, date: "22/2/23"},
 
 ];
 
